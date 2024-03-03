@@ -1,3 +1,7 @@
 this is task 1.2
 this is changed in github
+<<<<<<< HEAD
 dscdsvf
+=======
+this is changed
+>>>>>>> abf2c77e3d1c822668e5d81943e89d8316bf5331
